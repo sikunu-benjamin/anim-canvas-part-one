@@ -1,0 +1,8 @@
+#bouger-ball {
+	border: 1px solid black;
+	display: block;
+	width: 900px;
+	height: 600px;
+	margin: 0 auto;
+	background-color: green;
+}
